@@ -31,7 +31,6 @@
 **_Mainly_**   
 [![HTML5 Badge](http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.w3.org/TR/html52/)
 **_Sometimes_**   
-[![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.python.org/)
 [![CSS3 Badge](http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.w3.org/Style/CSS/Overview.en.html)
 **_Seldom_**   
 [![Java Badge](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.oracle.com/java/)

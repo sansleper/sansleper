@@ -11,10 +11,10 @@
 ***
 
 ## :pencil2:
-- [x] Make & Write README.md
-- [ ] Find What I Really Really Want Things, Etc. and Write in README.md
-- [ ] Start My New Projects
-- [ ] Finish Write README.md   
+- [x] Learn Python
+- [ ] Learn Java
+- [ ] Learn C
+- [ ] Learn C++   
 
 <div align=center>
 

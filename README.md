@@ -1,10 +1,5 @@
 # :fire: ABOUT ME :fire:
 
-![Issue Badge](https://img.shields.io/github/issues/sansleper/YouTube-C.M-check?style=for-the-badge)
-![Pull requests Badge](https://img.shields.io/bitbucket/pr-raw/sansleper/YouTube-C.M-check?style=for-the-badge)
-![Most Langauage Badge](https://img.shields.io/github/languages/count/beygee/survive?style=for-the-badge)
-![Top Langauge Badge](https://img.shields.io/github/languages/top/beygee/survive?style=for-the-badge)
-
 ***
 
 ## :pencil2:

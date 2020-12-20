@@ -1,5 +1,9 @@
 # :fire: ABOUT ME :fire:
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sansleper)](https://github.com/anuraghazra/github-readme-stats)
+
+***
+
 ## :pencil2:
 - [x] Make & Write README.md
 - [ ] Find What I Really Really Want Things, Etc. and Write in README.md

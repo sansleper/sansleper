@@ -100,5 +100,5 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsansleper%2FYouTube-C.M-check%2F)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=sAnSlEpEr&fontSize=150)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer&text=sAnSlEpEr&fontSize=100)
 </div>

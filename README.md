@@ -18,7 +18,7 @@
 
 <div align=center>
 
-:flashlight: DETAIL ME :flashlight:
+:flashlight: DETAIL :flashlight:
 </div>
 
 ***
@@ -49,7 +49,7 @@
 
 <div align=center>
  
-**_Programming tools, I using_**
+**_Programming tools, I am using_**
 
 </div>
 

@@ -1,7 +1,5 @@
 # :fire: ABOUT ME :fire:
 
-***
-
 ## :pencil2:
 - [x] Make & Write README.md
 - [ ] Find What I Really Really Want Things, Etc. and Write in README.md

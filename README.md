@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=ylinder&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 # :fire: ABOUT ME :fire:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sansleper)](https://github.com/anuraghazra/github-readme-stats)

@@ -10,7 +10,7 @@
 
 ***
 
-## :pencil2:
+## :pencil2: MEMO
 - [x] Learn Python
 - [ ] Learn Java
 - [ ] Learn C

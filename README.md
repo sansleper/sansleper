@@ -25,7 +25,7 @@
 
 <div align=center>
  
-**_Programming Languages, I am using_**
+**_Programming Languages I am using_**
 
 </div>
 
@@ -49,7 +49,7 @@
 
 <div align=center>
  
-**_Programming tools, I am using_**
+**_Programming tools I am using_**
 
 </div>
 

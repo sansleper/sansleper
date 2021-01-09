@@ -82,12 +82,6 @@
 
 </div>
 
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=333&section=footer&text=sAnSlEpEr&fontSize=100)
-
-</div>
-
 ***
 
 <div align=center>

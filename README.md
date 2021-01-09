@@ -27,27 +27,39 @@
 <div align=center>
 
 **_Programming Languages I am using_**
+
 </div>
+
 [![PHP Badge](http://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=w3c&link=https://www.php.net/)](https://www.php.net/)
 [![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.python.org/)
 **_Mainly_**   
+
 [![HTML5 Badge](http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.w3.org/TR/html52/)
 **_Sometimes_**   
+
 [![CSS3 Badge](http://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.w3.org/Style/CSS/Overview.en.html)
 **_Seldom_**   
+
 [![Java Badge](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://www.oracle.com/java/)
 **_Learning_**   
+
 [![C++ Badge](http://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://isocpp.org/)
 [![JavaScript Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Go Badge](http://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://golang.org/)
 [![Ruby Badge](http://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](http://www.ruby-lang.org/en/)
 [![C Badge](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=w3c&link=https://zzsza.github.io/)](https://en.cppreference.com/w/)
 **_Hope Learn_**
+
 ***
+
 <div align=center>
- **_Programming tools I am using_**
+
+**_Programming tools I am using_**
+
 </div>
+
 <div align=center>
+
 [![Atom Badge](http://img.shields.io/badge/-Atom-66595C?style=for-the-badge&logo=Atom&link=https://zzsza.github.io/)](https://atom.io/)
 [![Eclipse Badge](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=Eclipse&link=https://zzsza.github.io/)](https://www.eclipse.org/downloads/)
 [![Github Badge](http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&link=https://zzsza.github.io/)](https://github.com)

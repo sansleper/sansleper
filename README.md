@@ -7,6 +7,7 @@
 # :fire: ABOUT ME :fire:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sansleper)](https://github.com/anuraghazra/github-readme-stats)
+<script src="https://gist.github.com/sansleper/997c45d674c3ca91113092e959f8fd9d.js"></script>
 
 ***
 

@@ -72,7 +72,7 @@
 
 <div align=center>
 
-**_My Role Models_**
+**_Idolize_**
 
 </div>
 

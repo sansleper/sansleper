@@ -86,7 +86,7 @@
 
 <div align=center>
 
-:earth_americas: OTHER CONNECTION :earth_asia:
+:earth_americas: OTHER CONTACTS :earth_asia:
 
 </div>
 
